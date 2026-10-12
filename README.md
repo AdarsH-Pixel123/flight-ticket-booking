@@ -148,7 +148,3 @@ The `booking_seats` table is a junction table that supports bookings containing 
 - Improve concurrency handling so the same seat cannot be booked by two requests.
 - Move configuration and database credentials into environment-specific settings.
 - Add automated tests and deployment instructions.
-
-## License
-
-No license is currently specified in this repository. Unless a license is added, reuse and redistribution are subject to the repository owner's rights.
